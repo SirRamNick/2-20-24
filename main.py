@@ -1,1 +1,1 @@
-# Do your activity here. Goodluck ❤
+# Do your activity here. Remember, Dry Tae. Goodluck
