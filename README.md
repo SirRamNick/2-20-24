@@ -7,10 +7,14 @@
 
 ## For those who forgot how to accept and submit an assignment.
 
+_This will be the last time I remind you of this process_
+
 1. Create a folder
+
 2. Open the terminal of the directory
 
 3. Clone the assignment or activity using this:
+
 	git clone (link of the github repo)
 
 4. Work on your program
