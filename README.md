@@ -14,9 +14,9 @@ _This will be the last time I remind you of this process_
 - Open the terminal of the directory
 
 - Clone the assignment or activity using this:
-
+#
 	git clone (link of the github repo)
-
+#
 - Work on your program
 
 ### after working with the program.
