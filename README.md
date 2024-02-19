@@ -1,7 +1,7 @@
 # Final Activity for Prelims ❤
 
 ### Create a program using **modular** **programming** and **functions**. It can be anything as long as it makes sense.
-### Your work will be graded depending your code structure (Naming variables, Usage of control flow structures, etc.) and your program's **complexity**.
+### Your work will be graded depending your code structure (Naming variables, Usage of control flow structures, file name, etc.) and your program's **complexity**.
 
 ---
 
