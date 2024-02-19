@@ -15,14 +15,16 @@ _This will be the last time I remind you of this process_
 
 - Clone the assignment or activity using this:
 #
-	git clone (link of the github repo)
+	git clone (link of the assignment/activity github repo)
 #
 - Work on your program
 
 ### after working with the program.
-
+#
 	git add .
+#
 	git commit -m "Completed"
+#
 	git push
-
+#
 ### Your work will be submitted automatically after 'git push'.
