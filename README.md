@@ -9,20 +9,20 @@
 
 _This will be the last time I remind you of this process_
 
-1. Create a folder
+- Create a folder
 
-2. Open the terminal of the directory
+- Open the terminal of the directory
 
-3. Clone the assignment or activity using this:
+- Clone the assignment or activity using this:
 
 	git clone (link of the github repo)
 
-4. Work on your program
+- Work on your program
 
 ### after working with the program.
 
-5. git add .
-6. git commit -m "Completed"
-7. git push
+	git add .
+	git commit -m "Completed"
+	git push
 
 ### Your work will be submitted automatically after 'git push'.
