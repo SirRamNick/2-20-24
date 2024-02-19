@@ -1,11 +1,11 @@
 # Final Activity for Prelims ❤
 
-## Create a program using **modular** **programming** and **functions**. It can be anything as long as it makes sense.
-## Your work will be graded depending your code structure (Naming variables, Usage of control flow structures, etc.) and your program's **complexity**.
+### Create a program using **modular** **programming** and **functions**. It can be anything as long as it makes sense.
+### Your work will be graded depending your code structure (Naming variables, Usage of control flow structures, etc.) and your program's **complexity**.
 
 ---
 
-# For those who forgot how to accept and submit an assignment.
+## For those who forgot how to accept and submit an assignment.
 
 1. Create a folder
 2. Open the terminal of the directory
